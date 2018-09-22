@@ -20,6 +20,10 @@ body {
     color: whitesmoke;
 }
 
-.fill-head {
-    
+.top-row {
+    text-align: center;
+}
+
+#survey-holder {
+    padding: 30px;
 }
